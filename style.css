@@ -67,6 +67,7 @@ figure img {
 footer {
     width: 940px;
     margin: 10px;
+    background-color: rgba(127, 207, 214, 0.5); 
 }
 
 .pictures img{
