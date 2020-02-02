@@ -81,7 +81,7 @@ footer {
     display: grid;
     grid-template-columns: auto auto;
     background-color: #81ae9d;
-    padding: 20px;
+    padding: 0px;
     margin-bottom: 0px;
     text-align: center;
 }
